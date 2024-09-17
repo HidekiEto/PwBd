@@ -1,0 +1,15 @@
+body {
+    background-image: url('caso.png');
+    background: url('caso.png');
+}
+
+.pau {
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+
+
+}
+.teste{
+    display: grid;
+}
